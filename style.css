@@ -1,0 +1,208 @@
+/* General settings */
+body, html {
+  min-height: 100vh;
+  margin: 0px;
+  display: inline;
+}
+
+body {
+    background: #EFEFEF;
+}
+
+.pokemons {
+    padding-top: 90px;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pokemon {
+    width: 600px;
+    height: 150px;
+    margin: 5px;
+    background: lightGrey;
+    -moz-border-radius: 6px;
+    border-radius: 6px; /* standards-compliant: (IE) */
+    display: flex;
+    justify-content: space-between;
+}
+
+.pokemon .species {
+    width: 150px;
+    height: 150px;
+    background: url('http://poketrade.us/bgball.png') center no-repeat;
+    background-size: 95%;
+    padding-right: 10px;
+}
+
+.pokemon .species img {
+    width: 150px;
+    height: 150px;
+    z-index: 1;
+}
+
+.pokeball {
+    width: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.abilitynature {
+    height: 50px;
+}
+
+.abilitynature p:nth-child(1) {
+    float: left;
+}
+
+.abilitynature p:nth-child(2) {
+    float: right;
+}
+
+.abilitynature .ha {
+    color: lightBlue;
+}
+
+.bottomline {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
+
+.pokeball img {
+    width: 15px;
+    height: 15px;
+    vertical-align:middle;
+}
+
+.pokeball .noshiny {
+    visibility: hidden;
+}
+
+.pokeball .shiny {
+    visibility: visible;
+}
+
+h3 {
+    margin: 0px;
+}
+
+/* no bullet points */
+ul
+{
+    list-style-type: none;
+}
+
+.centerbox {
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.attack {
+    width: 200px;
+    height: 150px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.attack li {
+    display: block;
+    width: 190px;
+    line-height: 31px;
+    vertical-align: middle;
+    text-align: center;
+    margin: 5px;
+    background: gray;
+    -moz-border-radius: 3px;
+    border-radius: 3px; /* standards-compliant: (IE) */
+}
+
+/* here comes the menu part */
+.menu
+{
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background-color: #d1d1d1;
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    top: 0;
+    border: 0px solid #b3b3b3;
+    background-color: #f0f0f0;
+}
+
+.menu li {
+    float: left;
+    line-height: 50px;
+}
+
+.menu li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 0px 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover:not(.active) {
+    background-color: #b3b3b3;
+}
+
+.menu li a.active {
+    color: white;
+    background-color: #4CAF50;
+}
+
+/* Trainer page */
+.trainer {
+    padding-top: 90px;
+}
+
+.trainer h3 {
+    text-align: center;
+}
+
+.trainer h4 {
+    text-align: center;
+}
+
+.trainer p {
+    text-align: center;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+.center td, .center th {
+    border: 1px solid #d1d1d1;
+    text-align: left;
+    padding: 8px;
+}
+
+.center th {
+    text-align: center;
+}
+
+.center tr:nth-child(even){background-color: #d1d1d1}
+
+.center tr:hover {background-color: #b3b3b3;}
+
+.center th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #4CAF50;
+    color: white;
+}

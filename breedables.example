@@ -1,0 +1,481 @@
+[
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [],
+        "name": "Bulbasaur",
+        "ability": "Chlorophyll",
+        "shiny": false,
+        "number": 1,
+        "ball": "premierball",
+        "nature": "Modest"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [],
+        "name": "Vulpix",
+        "ability": "Drought",
+        "shiny": false,
+        "number": 37,
+        "ball": "premierball",
+        "nature": "Timid"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [],
+        "name": "Grimer",
+        "ability": "Poison Touch",
+        "shiny": false,
+        "number": 88,
+        "ball": "hyperball",
+        "nature": "Careful"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [
+            "Disable",
+            "Perish Song",
+            "Reflect Type",
+            "Haze"
+        ],
+        "name": "Gastly",
+        "ability": "Levitate",
+        "shiny": false,
+        "number": 92,
+        "ball": "premierball",
+        "nature": "Timid"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [],
+        "name": "Scyther",
+        "ability": "Technician",
+        "shiny": false,
+        "number": 123,
+        "ball": "premierball",
+        "nature": "Adamant"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [
+            "Wish",
+            "Yawn"
+        ],
+        "name": "Eevee",
+        "ability": "Run Away/Adaptability",
+        "shiny": false,
+        "number": 133,
+        "ball": "hyperball",
+        "nature": "Clam"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [],
+        "name": "Mareep",
+        "ability": "Static",
+        "shiny": false,
+        "number": 179,
+        "ball": "hyperball",
+        "nature": "Modest"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [
+            "Belly Drum",
+            "Superpower",
+            "Aqua Jet"
+        ],
+        "name": "Marill",
+        "ability": "Huge Power",
+        "shiny": false,
+        "number": 183,
+        "ball": "pokeball",
+        "nature": "Adamant"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [
+            "Ancient Power",
+            "Stealth Rock",
+            "Icicle Crash",
+            "Icicle Spear"
+        ],
+        "name": "Swinub",
+        "ability": "Thick Fat",
+        "shiny": false,
+        "number": 220,
+        "ball": "pokeball",
+        "nature": "Adamant/Jolly"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [
+            "Giga Drain"
+        ],
+        "name": "Lotad",
+        "ability": "Swift Swim",
+        "shiny": false,
+        "number": 270,
+        "ball": "premierball",
+        "nature": "Modest"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [
+            "Bullet Seed",
+            "Spore"
+        ],
+        "name": "Shroomish",
+        "ability": "Quick Feet",
+        "shiny": false,
+        "number": 285,
+        "ball": "pokeball",
+        "nature": "Adamant"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [
+            "Recover"
+        ],
+        "name": "Sableye",
+        "ability": "Prankster",
+        "shiny": false,
+        "number": 302,
+        "ball": "hyperball",
+        "nature": "Bold"
+    },
+    {
+        "ivs": [
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "Undefined",
+                "contents": []
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            },
+            {
+                "tag": "IV",
+                "contents": 31
+            }
+        ],
+        "atts": [],
+        "name": "Fletchling",
+        "ability": "Gale Wings",
+        "shiny": false,
+        "number": 661,
+        "ball": "premierball",
+        "nature": "Adamant"
+    }
+]
